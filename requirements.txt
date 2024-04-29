@@ -1,0 +1,5 @@
+python-dotenv
+requests
+bs4
+tensorflow==2.15.0
+numpy
