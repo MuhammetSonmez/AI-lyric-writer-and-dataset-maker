@@ -17,8 +17,8 @@ This repository contains Python scripts for generating datasets that contain lyr
 
 1. **Clone the Repository**: First, clone this repository to your local machine using Git.
 
-git clone https://github.com/MuhammetSonmez/AI-lyric-writer-and-dataset-maker/
 ```
+  git clone https://github.com/MuhammetSonmez/AI-lyric-writer-and-dataset-maker/
   cd AI-lyric-writer-and-dataset-maker
 ```
 
